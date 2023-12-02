@@ -1,8 +1,9 @@
-
+import java.util.Arrays;
 
 public class Easy {
     public static void main(String[] args) {
         int[] aoa = {5,5,5,10,20};
+        System.out.println(Arrays.toString(plusOne(aoa)));
 
     }
 
