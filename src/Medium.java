@@ -1,8 +1,9 @@
 public class Medium {
     public static void main(String[] args) {
 
-        System.out.println();
-
+    }
+    public static int search(int [] arr){
+        return -1;
     }
 
 }
